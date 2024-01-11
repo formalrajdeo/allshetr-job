@@ -4,7 +4,7 @@ import React from 'react'
 
 const Navbar = () => {
     return (
-        <div className="flex justify-center items-center shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px]">
+        <div className="flex justify-center items-center border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px]">
             <div className="flex p-4 justify-between items-center w-11/12">
                 <div className="p-4 rounded-full border border-blue-500 overflow-hidden">
                     <span className='font-semibold'>ALLSHETR-JOB</span>
