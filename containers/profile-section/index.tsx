@@ -16,7 +16,7 @@ const ProfileSection = () => {
   return (
     <main className='flex justify-center items-center'>
       <div className="m-4 flex justify-between items-start w-11/12">
-        <div className="flex flex-col p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] mr-8 rounded-xl">
+        <div className="flex flex-col p-4 border border-gray-200 shadow-md mr-8 rounded-xl">
           <div className="pb-4">
             <span className='font-bold'>Quick links</span>
           </div>
@@ -36,37 +36,37 @@ const ProfileSection = () => {
           </ul>
         </div>
         <div className="w-full">
-          <section id="resume" className='p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-xl'>
+          <section id="resume" className='p-4 border border-gray-200 shadow-md rounded-xl'>
             <Resume />
           </section>
-          <section id="resume-headline" className='my-4 p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-xl'>
+          <section id="resume-headline" className='my-4 p-4 border border-gray-200 shadow-md rounded-xl'>
             <ResumeHeadline />
           </section>
-          <section id="key-skills" className='my-4 p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-xl'>
+          <section id="key-skills" className='my-4 p-4 border border-gray-200 shadow-md rounded-xl'>
             <KeySkills />
           </section>
-          <section id="employment" className='my-4 p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-xl'>
+          <section id="employment" className='my-4 p-4 border border-gray-200 shadow-md rounded-xl'>
             <Employment />
           </section>
-          <section id="education" className='my-4 p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-xl'>
+          <section id="education" className='my-4 p-4 border border-gray-200 shadow-md rounded-xl'>
             <Education />
           </section>
-          <section id="it-skills" className='my-4 p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-xl'>
+          <section id="it-skills" className='my-4 p-4 border border-gray-200 shadow-md rounded-xl'>
             <ItSkills />
           </section>
-          <section id="projects" className='my-4 p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-xl'>
+          <section id="projects" className='my-4 p-4 border border-gray-200 shadow-md rounded-xl'>
             <Projects />
           </section>
-          <section id="profile-summary" className='my-4 p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-xl'>
+          <section id="profile-summary" className='my-4 p-4 border border-gray-200 shadow-md rounded-xl'>
             <ProfileSummary />
           </section>
-          <section id="accomplishments" className='my-4 p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-xl'>
+          <section id="accomplishments" className='my-4 p-4 border border-gray-200 shadow-md rounded-xl'>
             <Accomplishments />
           </section>
-          <section id="career-profile" className='my-4 p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-xl'>
+          <section id="career-profile" className='my-4 p-4 border border-gray-200 shadow-md rounded-xl'>
             <CareerProfile />
           </section>
-          <section id="personal-details" className='my-4 p-4 border border-gray-200 shadow-[rgba(50,50,93,0.25)_0px_6px_12px_-2px,_rgba(0,0,0,0.3)_0px_3px_7px_-3px] rounded-xl'>
+          <section id="personal-details" className='my-4 p-4 border border-gray-200 shadow-md rounded-xl'>
             <PersonalDetails />
           </section>
         </div>

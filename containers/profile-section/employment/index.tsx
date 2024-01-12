@@ -22,7 +22,10 @@ const Employment = () => {
                     <div><span className='font-semibold'>Cloud Associate</span></div>
                     <div><span className=''>Niveus Solution</span></div>
                     <div><span className='text-gray-400'>Full-time | Jan 2022 to Feb 2023 (1 year 2 months)</span></div>
-                    <div><span>Client : ICICI BANK Description : I worked as a key member of the team responsible for developing and maintaining the online account creation system. My primary focus was on enabling customers to create saving accounts, apply for credit cards, and avail two-wheeler loans through the b...</span></div>
+                    <div>
+                        <span>Client : ICICI BANK Description : I worked as a key member of the team responsible for developing and maintaining the online account creation system. My primary focus was on enabling customers to create saving accounts, apply for credit cards, and avail two-wheeler loans through the b...
+                        </span>
+                    </div>
                 </div>
                 <div className="flex flex-col justify-start items-start pb-4">
                     <div><span className='font-semibold'>Software Developer</span></div>
