@@ -11,7 +11,7 @@ import ProfileSummary from './profile-summary'
 import Accomplishments from './accomplishments'
 import CareerProfile from './career-profile'
 import PersonalDetails from './personal-details'
-import PersonalInfo from './personal-info/PersonalInfo'
+import PersonalInfo from './personal-info'
 
 const sections = [
   { id: 'resume', label: 'Resume', Component: Resume },
