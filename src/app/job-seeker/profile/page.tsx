@@ -12,6 +12,8 @@ import Accomplishments from './accomplishments'
 import CareerProfile from './career-profile'
 import PersonalDetails from './personal-details'
 import PersonalInfo from './personal-info'
+import Navbar from '@/app/components/navbar'
+import Footer from '@/app/components/footer'
 
 const sections = [
   { id: 'resume', label: 'Resume', Component: Resume },
@@ -50,9 +52,10 @@ const QuickLinks = () => {
   )
 }
 
-const ProfilePage = () => {
+const Profile = () => {
   return (
     <>
+      <Navbar />
       <PersonalInfo />
       <main className='flex justify-center items-center'>
         <div className="m-4 flex justify-between items-start w-11/12">
@@ -66,8 +69,9 @@ const ProfilePage = () => {
           </div>
         </div>
       </main>
+      <Footer />
     </>
   )
 }
 
-export default ProfilePage;
+export default Profile;

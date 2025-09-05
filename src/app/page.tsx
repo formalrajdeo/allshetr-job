@@ -1,14 +1,12 @@
 
 import Navbar from './components/navbar'
 import Footer from './components/footer'
-import ProfilePage from './pages/profile'
+import Profile from './job-seeker/profile/page'
 
 const page = () => {
   return (
     <>
-      <Navbar />
-      <ProfilePage />
-      <Footer />
+      Dashboard
     </>
   )
 }
