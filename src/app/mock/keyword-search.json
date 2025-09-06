@@ -1,0 +1,18 @@
+{
+    "jobDetails": [
+        {
+            "jobId": "1",
+            "title": "Software Engineer",
+            "companyName": "Lodha Group",
+            "location": "Mumbai",
+            "jdLink": "/job-listings-software-engineer"
+        },
+        {
+            "jobId": "2",
+            "title": "Frontend Developer",
+            "companyName": "Lodha Group",
+            "location": "Pune",
+            "jdLink": "/job-listings-frontend-developer"
+        }
+    ]
+}
