@@ -54,7 +54,9 @@ export default function DynamicSearchPage() {
         if (/^job-listings-.*-\d+$/.test(path)) {
             const jobId = path.split('-').pop()
             return setApi(
-                `1 ||||${base}/jobapi/v2/search/simjobs/${jobId}?noOfResults=${noOfResults}&searchType=sim`
+                `1 ||||${base}/jobapi/v2/search/simjobs/${jobId}?noOfResults=${noOfResults}&searchType=sim \n
+                Job details |||| ${base}/jobapi/v4/job/${jobId}?microsite=y&brandedConsultantJd=true&src=drecomm_profile&sid=17573512779539188&xp=1&px=1
+                `
             )
         }
 
@@ -257,6 +259,21 @@ export default function DynamicSearchPage() {
                 `&keyword=${keyword}&sort=p&pageNo=${pageNo}&k=${keyword}` +
                 `&nignbevent_src=jobsearchDeskGNB&seoKey=${seoKey}` +
                 `&src=jobsearchDesk&latLong=`
+            )
+        }
+
+        // 19. Group overview by ID (new case)
+        const groupOverviewMatch = path.match(/(.*)-group-overview-(\d+)/)
+        if (groupOverviewMatch) {
+            groupName = groupOverviewMatch[1]
+            groupId = groupOverviewMatch[2]
+            urlType = 'search_by_group_id'
+            searchType = 'groupidsearch'
+
+            return setApi(
+                `19 ||||${base}/jobapi/v3/search?noOfResults=${noOfResults}` +
+                `&groupId=${groupId}&pageNo=${pageNo}` +
+                `&searchType=${searchType}`
             )
         }
 
