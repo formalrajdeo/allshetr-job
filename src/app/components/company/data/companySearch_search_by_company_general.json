@@ -3312,6 +3312,2398 @@
     },
     "groupDetails": [
         {
+            "groupId": 4619591,
+            "groupName": "Powerschool India",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4619591.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4619591.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Highly Rated by Women"
+                ],
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2C",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "primaryIndustry": [
+                    "e-Learning / EdTech"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2007"
+                ]
+            },
+            "groupJobsURL": "/powerschool-india-overview-4619591?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.4,
+            "reviewsCount": 331,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4602181,
+            "groupName": "Icertis",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4602181.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4602181.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "TOP"
+                ],
+                "additionalTag": [
+                    "Unicorn"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "offeringType": [
+                    "Product",
+                    "R&D/Development Center",
+                    "Innovation Labs"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2009"
+                ]
+            },
+            "groupJobsURL": "/icertis-overview-4602181?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.4,
+            "reviewsCount": 359,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 6758051,
+            "groupName": "Workday Inc",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/6758051.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/6758051.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Forbes Global 2000",
+                    "Fortune US 500"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "SaaS"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "10001-50000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2005"
+                ]
+            },
+            "groupJobsURL": "/workday-inc-overview-6758051?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.9,
+            "reviewsCount": 36,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 2948906,
+            "groupName": "Hive",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/2948906.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/2948906.gif"
+            },
+            "groupTags": {
+                "additionalTag": [
+                    "Foreign Unicorn"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "51-200 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2013"
+                ]
+            },
+            "groupJobsURL": "/hive-overview-2948906?tab=jobs",
+            "hasLiveJob": true,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 8939023,
+            "groupName": "PTC India",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/8939023.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/8939023.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Fortune India 500 (2019)",
+                    "Forbes Global 2000",
+                    "TOP",
+                    "Fortune India 500 (2020)",
+                    "Fortune India 500 (2021)",
+                    "Fortune India 500",
+                    "Highly Rated by Women",
+                    "Fortune India 500 (2023)",
+                    "Work-Life Balance",
+                    "Culture"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Public"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "5001-10000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1985"
+                ]
+            },
+            "groupJobsURL": "/ptc-india-overview-8939023?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 4.2,
+            "reviewsCount": 581,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 5729808,
+            "groupName": "Yubi",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/5729808.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/5729808.gif"
+            },
+            "groupTags": {
+                "additionalTag": [
+                    "Unicorn"
+                ],
+                "businessSize": [
+                    "Startup"
+                ],
+                "natureofBusiness": [
+                    "SaaS"
+                ],
+                "employerType": [
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "primaryIndustry": [
+                    "FinTech / Payments"
+                ],
+                "employeesCount": [
+                    "501-1000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2020"
+                ]
+            },
+            "groupJobsURL": "/yubi-overview-5729808?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.5,
+            "reviewsCount": 216,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 3490674,
+            "groupName": "Nextgen Healthcare",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/3490674.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/3490674.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1974"
+                ]
+            },
+            "groupJobsURL": "/nextgen-healthcare-overview-3490674?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.7,
+            "reviewsCount": 238,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 1140122,
+            "groupName": "Appnomic",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/1140122.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/1140122.gif"
+            },
+            "groupTags": {
+                "additionalTag": [
+                    "Minicorn"
+                ],
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "51-200 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2006"
+                ]
+            },
+            "groupJobsURL": "/appnomic-overview-1140122?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 4.2,
+            "reviewsCount": 37,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 933250,
+            "groupName": "First Advantage",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/933250.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/933250.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Highly Rated by Women"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2C",
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Recruitment / Staffing"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2003"
+                ]
+            },
+            "groupJobsURL": "/first-advantage-overview-933250?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.5,
+            "reviewsCount": 724,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4658199,
+            "groupName": "Extreme Networks",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4658199.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4658199.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Hardware & Networking"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1996"
+                ]
+            },
+            "groupJobsURL": "/extreme-networks-overview-4658199?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.6,
+            "reviewsCount": 67,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4486164,
+            "groupName": "Viavi Solutions",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4486164.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4486164.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "SaaS"
+                ],
+                "offeringType": [
+                    "Product",
+                    "R&D/Development Center"
+                ],
+                "primaryIndustry": [
+                    "Telecom / ISP"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1923"
+                ]
+            },
+            "groupJobsURL": "/viavi-solutions-overview-4486164?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.7,
+            "reviewsCount": 67,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 1716616,
+            "groupName": "Zenoti",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/1716616.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/1716616.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "TOP"
+                ],
+                "additionalTag": [
+                    "Unicorn"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2C",
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "IT Services & Consulting"
+                ],
+                "employeesCount": [
+                    "201-500 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2010"
+                ]
+            },
+            "groupJobsURL": "/zenoti-overview-1716616?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 2.9,
+            "reviewsCount": 167,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 2401526,
+            "groupName": "Twilio",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/2401526.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/2401526.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "TOP",
+                    "Work-Life Balance",
+                    "Salary & Benefits"
+                ],
+                "businessSize": [
+                    "Startup"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Public"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "offeringType": [
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2012"
+                ]
+            },
+            "groupJobsURL": "/twilio-overview-2401526?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.8,
+            "reviewsCount": 96,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 162646,
+            "groupName": "PTC",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/162646.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/162646.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Fortune India 500 (2019)",
+                    "Forbes Global 2000",
+                    "TOP",
+                    "Fortune India 500 (2020)",
+                    "Fortune India 500 (2021)",
+                    "Fortune India 500",
+                    "Highly Rated by Women",
+                    "Fortune India 500 (2023)",
+                    "Work-Life Balance",
+                    "Culture"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Public"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "5001-10000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1985"
+                ]
+            },
+            "groupJobsURL": "/ptc-overview-162646?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 4.2,
+            "reviewsCount": 581,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 2503164,
+            "groupName": "Colt Technology Services",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/2503164.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/2503164.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Highly Rated by Women",
+                    "Work-Life Balance",
+                    "Culture"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "primaryIndustry": [
+                    "Hardware & Networking"
+                ],
+                "employeesCount": [
+                    "5001-10000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1992"
+                ]
+            },
+            "groupJobsURL": "/colt-technology-services-overview-2503164?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 4.3,
+            "reviewsCount": 523,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 2456766,
+            "groupName": "Criteo",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/2456766.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/2456766.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Public"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "Internet"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2005"
+                ]
+            },
+            "groupJobsURL": "/criteo-overview-2456766?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 4.4,
+            "reviewsCount": 18,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 2973430,
+            "groupName": "Xoxoday",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/2973430.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/2973430.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Startup"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "51-200 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2012"
+                ]
+            },
+            "groupJobsURL": "/xoxoday-overview-2973430?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.6,
+            "reviewsCount": 110,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 71836,
+            "groupName": "Avaya India",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/71836.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/71836.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "TOP"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "5001-10000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2000"
+                ]
+            },
+            "groupJobsURL": "/avaya-india-overview-71836?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.2,
+            "reviewsCount": 431,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 1873090,
+            "groupName": "Webengage",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/1873090.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/1873090.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "TOP",
+                    "Work-Life Balance"
+                ],
+                "additionalTag": [
+                    "Minicorn"
+                ],
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "IT Services & Consulting"
+                ],
+                "employeesCount": [
+                    "201-500 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2011"
+                ]
+            },
+            "groupJobsURL": "/webengage-overview-1873090?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.8,
+            "reviewsCount": 62,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 412440,
+            "groupName": "Simplify Healthcare",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/412440.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/412440.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product",
+                    "R&D/Development Center",
+                    "Innovation Labs"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "hq": [
+                    "United States (USA)"
+                ],
+                "employeesCount": [
+                    "501-1000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2008"
+                ]
+            },
+            "groupJobsURL": "/simplify-healthcare-overview-412440?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 2.5,
+            "reviewsCount": 190,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4592025,
+            "groupName": "Ebix",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4592025.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4592025.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Work-Life Balance"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2002"
+                ]
+            },
+            "groupJobsURL": "/ebix-overview-4592025?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.9,
+            "reviewsCount": 1107,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 47840,
+            "groupName": "Research In Motion",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/47840.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/47840.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "primaryIndustry": [
+                    "IT Services & Consulting"
+                ],
+                "employeesCount": [
+                    "501-1000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1980"
+                ]
+            },
+            "groupJobsURL": "/research-in-motion-overview-47840?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 4.1,
+            "reviewsCount": 36,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4584167,
+            "groupName": "Shiprocket",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4584167.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4584167.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Highly Rated by Women"
+                ],
+                "additionalTag": [
+                    "Unicorn"
+                ],
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "primaryIndustry": [
+                    "Internet"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2012"
+                ]
+            },
+            "groupJobsURL": "/shiprocket-overview-4584167?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.5,
+            "reviewsCount": 357,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4629925,
+            "groupName": "Softtech Engineers",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4629925.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4629925.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Public"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "IT Services & Consulting"
+                ],
+                "employeesCount": [
+                    "501-1000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1996"
+                ]
+            },
+            "groupJobsURL": "/softtech-engineers-overview-4629925?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.5,
+            "reviewsCount": 134,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4575777,
+            "groupName": "ADP",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4575777.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4575777.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Forbes Global 2000",
+                    "TOP",
+                    "Highly Rated by Women"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2C",
+                    "B2B",
+                    "SaaS"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "50001-100000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1949"
+                ]
+            },
+            "groupJobsURL": "/adp-overview-4575777?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 4,
+            "reviewsCount": 3492,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 6760129,
+            "groupName": "Zypp",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/6760129.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/6760129.gif"
+            },
+            "groupTags": {
+                "additionalTag": [
+                    "Minicorn"
+                ],
+                "businessSize": [
+                    "Startup"
+                ],
+                "natureofBusiness": [
+                    "B2C",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Internet"
+                ],
+                "hq": [
+                    "India"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2017"
+                ]
+            },
+            "groupJobsURL": "/zypp-overview-6760129?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.6,
+            "reviewsCount": 327,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 6229049,
+            "groupName": "Finforz Technologies",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/6229049.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/6229049.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Startup"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "primaryIndustry": [
+                    "FinTech / Payments"
+                ],
+                "foundingYear": [
+                    "Founded: 2021"
+                ]
+            },
+            "groupJobsURL": "/finforz-technologies-overview-6229049?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 2.3,
+            "reviewsCount": 16,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 3247574,
+            "groupName": "Healthplix Technologies",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/3247574.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/3247574.gif"
+            },
+            "groupTags": {
+                "additionalTag": [
+                    "Minicorn"
+                ],
+                "businessSize": [
+                    "Startup"
+                ],
+                "natureofBusiness": [
+                    "B2C",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "primaryIndustry": [
+                    "Fitness & Wellness"
+                ],
+                "hq": [
+                    "India"
+                ],
+                "employeesCount": [
+                    "51-200 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2014"
+                ]
+            },
+            "groupJobsURL": "/healthplix-technologies-overview-3247574?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 2.9,
+            "reviewsCount": 167,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4587873,
+            "groupName": "ricago",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4587873.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4587873.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Work-Life Balance",
+                    "Skill Development",
+                    "Culture",
+                    "Work Satisfaction"
+                ],
+                "businessSize": [
+                    "Startup"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Internet"
+                ],
+                "employeesCount": [
+                    "51-200 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2014"
+                ]
+            },
+            "groupJobsURL": "/ricago-overview-4587873?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 4.3,
+            "reviewsCount": 79,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 911588,
+            "groupName": "VSN International",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/911588.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/911588.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Public"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "IT Services & Consulting"
+                ],
+                "foundingYear": [
+                    "Founded: 2019"
+                ]
+            },
+            "groupJobsURL": "/vsn-international-overview-911588?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.4,
+            "reviewsCount": 49,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4767909,
+            "groupName": "Excelencia Itech Consulting",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4767909.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4767909.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Service",
+                    "Innovation Labs"
+                ],
+                "primaryIndustry": [
+                    "IT Services & Consulting"
+                ],
+                "employeesCount": [
+                    "201-500 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2005"
+                ]
+            },
+            "groupJobsURL": "/excelencia-itech-consulting-overview-4767909?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.9,
+            "reviewsCount": 62,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 5491006,
+            "groupName": "Instem",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/5491006.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/5491006.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "IT Services & Consulting"
+                ],
+                "hq": [
+                    "United Kingdom (UK)"
+                ],
+                "employeesCount": [
+                    "501-1000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1969"
+                ]
+            },
+            "groupJobsURL": "/instem-overview-5491006?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.5,
+            "reviewsCount": 50,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 2513366,
+            "groupName": "Tekion",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/2513366.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/2513366.gif"
+            },
+            "groupTags": {
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2016"
+                ]
+            },
+            "groupJobsURL": "/tekion-overview-2513366?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3,
+            "reviewsCount": 348,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4931259,
+            "groupName": "Microlise",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4931259.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4931259.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "IT Services & Consulting"
+                ],
+                "employeesCount": [
+                    "201-500 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1982"
+                ]
+            },
+            "groupJobsURL": "/microlise-overview-4931259?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.5,
+            "reviewsCount": 47,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4619639,
+            "groupName": "Practiceleague Legaltech",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4619639.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4619639.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Others"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "IT Services & Consulting"
+                ],
+                "employeesCount": [
+                    "51-200 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2016"
+                ]
+            },
+            "groupJobsURL": "/practiceleague-legaltech-overview-4619639?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.3,
+            "reviewsCount": 37,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 54066,
+            "groupName": "UKG",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/54066.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/54066.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "TOP"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2C",
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "offeringType": [
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "10001-50000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2020"
+                ]
+            },
+            "groupJobsURL": "/ukg-overview-54066?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3,
+            "reviewsCount": 719,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4246772,
+            "groupName": "Awign Enterprises",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4246772.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4246772.gif"
+            },
+            "groupTags": {
+                "additionalTag": [
+                    "Minicorn"
+                ],
+                "businessSize": [
+                    "Startup"
+                ],
+                "natureofBusiness": [
+                    "B2C",
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Consultant"
+                ],
+                "primaryIndustry": [
+                    "Internet"
+                ],
+                "employeesCount": [
+                    "201-500 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2016"
+                ]
+            },
+            "groupJobsURL": "/awign-enterprises-overview-4246772?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.7,
+            "reviewsCount": 310,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4575857,
+            "groupName": "Aera Software Technology",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4575857.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4575857.gif"
+            },
+            "groupTags": {
+                "additionalTag": [
+                    "Soonicorn"
+                ],
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "IT Services & Consulting"
+                ],
+                "employeesCount": [
+                    "201-500 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1999"
+                ]
+            },
+            "groupJobsURL": "/aera-software-technology-overview-4575857?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 4.1,
+            "reviewsCount": 50,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 2861150,
+            "groupName": "Clarivate",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/2861150.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/2861150.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Highly Rated by Women"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Public"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "primaryIndustry": [
+                    "Analytics / KPO / Research"
+                ],
+                "employeesCount": [
+                    "10001-50000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2016"
+                ]
+            },
+            "groupJobsURL": "/clarivate-overview-2861150?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.7,
+            "reviewsCount": 729,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4617267,
+            "groupName": "Perfios Software Solutions",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4617267.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4617267.gif"
+            },
+            "groupTags": {
+                "additionalTag": [
+                    "Soonicorn",
+                    "Unicorn"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "primaryIndustry": [
+                    "FinTech / Payments"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2008"
+                ]
+            },
+            "groupJobsURL": "/perfios-software-solutions-overview-4617267?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.5,
+            "reviewsCount": 204,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 33718,
+            "groupName": "Model N",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/33718.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/33718.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Work-Life Balance",
+                    "Salary & Benefits",
+                    "Culture"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1999"
+                ]
+            },
+            "groupJobsURL": "/model-n-overview-33718?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 4.2,
+            "reviewsCount": 152,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 583728,
+            "groupName": "Juniper Networks",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/583728.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/583728.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "TOP",
+                    "Highly Rated by Women",
+                    "Work-Life Balance",
+                    "Culture"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "Hardware & Networking"
+                ],
+                "employeesCount": [
+                    "5001-10000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1996"
+                ]
+            },
+            "groupJobsURL": "/juniper-networks-overview-583728",
+            "hasLiveJob": false,
+            "rating": 4.2,
+            "reviewsCount": 458,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 166008,
+            "groupName": "Intel",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/166008.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/166008.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "Forbes Global 2000",
+                    "TOP",
+                    "Fortune Global 500",
+                    "Highly Rated by Women",
+                    "Work-Life Balance",
+                    "Culture"
+                ],
+                "additionalTag": [
+                    "Conglomerate"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Public"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Electronic Components / Semiconductors"
+                ],
+                "employeesCount": [
+                    "100001+ emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1968"
+                ]
+            },
+            "groupJobsURL": "/intel-overview-166008?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 4.1,
+            "reviewsCount": 1092,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 6373915,
+            "groupName": "Rite Software Solutions And Services",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/6373915.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/6373915.gif"
+            },
+            "groupTags": {
+                "businessSize": [
+                    "Corporate"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "PaaS",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "LLP"
+                ],
+                "offeringType": [
+                    "Product",
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "IT Services & Consulting"
+                ],
+                "employeesCount": [
+                    "201-500 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2006"
+                ]
+            },
+            "groupJobsURL": "/rite-software-solutions-and-services-overview-6373915?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.4,
+            "reviewsCount": 62,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 1366318,
+            "groupName": "Amagi Media Labs",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/1366318.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/1366318.gif"
+            },
+            "groupTags": {
+                "additionalTag": [
+                    "Unicorn"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "51-200 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2008"
+                ]
+            },
+            "groupJobsURL": "/amagi-media-labs-overview-1366318?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.5,
+            "reviewsCount": 147,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 4577913,
+            "groupName": "BUSINESSNEXT",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/4577913.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/4577913.gif"
+            },
+            "groupTags": {
+                "additionalTag": [
+                    "Minicorn"
+                ],
+                "businessSize": [
+                    "Indian MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2001"
+                ]
+            },
+            "groupJobsURL": "/businessnext-overview-4577913?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.4,
+            "reviewsCount": 501,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 106364,
+            "groupName": "Cvent",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/106364.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/106364.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "TOP"
+                ],
+                "businessSize": [
+                    "Foreign MNC"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company",
+                    "AmbitionBox Top 2000 companies"
+                ],
+                "offeringType": [
+                    "Service"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "1001-5000 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 1999"
+                ]
+            },
+            "groupJobsURL": "/cvent-overview-106364?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.3,
+            "reviewsCount": 533,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "hq",
+                "employeesCount",
+                "foundingYear",
+                "natureofBusiness"
+            ]
+        },
+        {
+            "groupId": 1944034,
+            "groupName": "Postman",
+            "groupLogo": {
+                "desktop": "https://img.naukimg.com/logo_images/groups/v1/1944034.gif",
+                "mobile": "https://img.naukimg.com/logo_images/groups/v1/mobile/1944034.gif"
+            },
+            "groupTags": {
+                "topCompany": [
+                    "TOP"
+                ],
+                "additionalTag": [
+                    "Unicorn"
+                ],
+                "businessSize": [
+                    "Startup"
+                ],
+                "natureofBusiness": [
+                    "B2B",
+                    "SaaS"
+                ],
+                "ownershipType": [
+                    "Private"
+                ],
+                "employerType": [
+                    "Company"
+                ],
+                "offeringType": [
+                    "Product"
+                ],
+                "primaryIndustry": [
+                    "Software Product"
+                ],
+                "employeesCount": [
+                    "51-200 emp."
+                ],
+                "foundingYear": [
+                    "Founded: 2014"
+                ]
+            },
+            "groupJobsURL": "/postman-overview-1944034?tab=jobs",
+            "hasLiveJob": true,
+            "rating": 3.3,
+            "reviewsCount": 32,
+            "tagsOrder": [
+                "businessSize",
+                "primaryIndustry",
+                "additionalTag",
+                "foundingYear",
+                "employeesCount",
+                "natureofBusiness"
+            ]
+        },
+        {
             "groupId": 487302,
             "groupName": "Himalaya Opticals",
             "groupLogo": {

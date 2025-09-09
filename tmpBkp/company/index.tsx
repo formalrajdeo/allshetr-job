@@ -91,7 +91,6 @@ export default function CompanyPage() {
     // ---- Filtering logic ----
     const filteredCompanies = useMemo(() => {
         let list = groupDetails.slice();
-        console.log({ list })
         if (selectedCategory) {
             // For now we assume category matches industry or natureofBusiness
             list = list.filter(
@@ -100,14 +99,12 @@ export default function CompanyPage() {
                     c.groupTags?.natureofBusiness?.includes(selectedCategory)
             );
         }
-        console.log({ selectedCategory, selectedFilters })
 
         for (const filterId of Object.keys(selectedFilters)) {
             const selectedVals = selectedFilters[filterId];
             if (!selectedVals || selectedVals.length === 0) continue;
 
             const field = fieldMapping[filterId];
-            console.log({ field, selectedVals })
             if (!field) continue;
 
             list = list.filter((company) => {

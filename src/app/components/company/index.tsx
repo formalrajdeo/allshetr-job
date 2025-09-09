@@ -1,5 +1,5 @@
 "use client";
-import React, { useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import Navbar from "../navbar";
 import Footer from "../footer";
 import GlobalCompanyCategorySlider from "./GlobalCompanyCategorySlider";
@@ -31,6 +31,8 @@ const globalCompanyCategoriesData: GlobalCompanyCategoriesData[] = [
 // ---- Main Component ----
 export default function CompanyPage() {
     const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+    const ITEMS_PER_PAGE = 48;
+    const [currentPage, setCurrentPage] = useState(1);
 
     // selected filters: filterId -> array of selected values
     const [selectedFilters, setSelectedFilters] = useState<Record<string, string[]>>({});
@@ -61,7 +63,6 @@ export default function CompanyPage() {
 
     const filteredCompanies = useMemo(() => {
         let list = groupDetails.slice();
-        console.log({ list });
 
         //  Dynamically match selectedCategory across all groupTags values
         if (selectedCategory) {
@@ -83,15 +84,12 @@ export default function CompanyPage() {
             });
         }
 
-        console.log({ selectedCategory, selectedFilters });
-
         //  Apply selected filters from UI (e.g., checkboxes)
         for (const filterId of Object.keys(selectedFilters)) {
             const selectedVals = selectedFilters[filterId];
             if (!selectedVals || selectedVals.length === 0) continue;
 
             const field = fieldMapping[filterId];
-            console.log({ field, selectedVals });
 
             if (!field) continue;
 
@@ -113,6 +111,14 @@ export default function CompanyPage() {
 
         return list;
     }, [groupDetails, selectedFilters, selectedCategory]);
+
+    const totalPages = Math.ceil(filteredCompanies.length / ITEMS_PER_PAGE);
+    const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+    const paginatedCompanies = filteredCompanies.slice(startIndex, startIndex + ITEMS_PER_PAGE);
+
+    useEffect(() => {
+        setCurrentPage(1);
+    }, [selectedCategory, selectedFilters]);
 
     return (
         <>
@@ -174,10 +180,60 @@ export default function CompanyPage() {
                                 </div>
                             </div>
 
-                            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                                {filteredCompanies.map((c) => (
-                                    <CompanyCard key={c.groupId} company={c} />
-                                ))}
+                            <div className="">
+                                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                    {paginatedCompanies.map((c) => (
+                                        <CompanyCard key={c.groupId} company={c} />
+                                    ))}
+                                </div>
+                                {/* Pagination Controls */}
+                                <div className="mt-6 flex flex-col md:flex-row items-center justify-center mb-60 gap-4">
+                                    {/* Page info */}
+                                    <span className="text-sm text-gray-600">
+                                        Page {currentPage} of {totalPages}
+                                    </span>
+
+                                    {/* Full pagination UI */}
+                                    <div className="flex items-center gap-2 text-sm">
+                                        {/* Previous Button */}
+                                        <button
+                                            onClick={() => setCurrentPage((prev) => Math.max(prev - 1, 1))}
+                                            disabled={currentPage === 1}
+                                            className={`px-3 py-1 border rounded ${currentPage === 1
+                                                ? "text-gray-400 bg-gray-100 cursor-not-allowed"
+                                                : "text-gray-700 bg-white hover:bg-gray-50"
+                                                }`}
+                                        >
+                                            ← Previous
+                                        </button>
+
+                                        {/* Page numbers */}
+                                        {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
+                                            <button
+                                                key={page}
+                                                onClick={() => setCurrentPage(page)}
+                                                className={`px-3 py-1 rounded-full border ${currentPage === page
+                                                    ? "bg-white border-gray-700 text-gray-900 font-semibold"
+                                                    : "bg-transparent border-transparent text-gray-700 hover:bg-gray-100"
+                                                    }`}
+                                            >
+                                                {page}
+                                            </button>
+                                        ))}
+
+                                        {/* Next Button */}
+                                        <button
+                                            onClick={() => setCurrentPage((prev) => Math.min(prev + 1, totalPages))}
+                                            disabled={currentPage === totalPages}
+                                            className={`px-3 py-1 border rounded ${currentPage === totalPages
+                                                ? "text-gray-400 bg-gray-100 cursor-not-allowed"
+                                                : "text-gray-700 bg-white hover:bg-gray-50"
+                                                }`}
+                                        >
+                                            Next →
+                                        </button>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
