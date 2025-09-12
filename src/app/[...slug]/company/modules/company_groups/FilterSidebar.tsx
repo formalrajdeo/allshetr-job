@@ -1,28 +1,8 @@
 // components/FilterSidebar.tsx
 "use client";
 import React, { useMemo, useState } from "react";
-import { FaAngleLeft, FaAngleRight } from "../icons";
-
-type FilterValue = { id: string; label: string; count?: number };
-type FilterDef = {
-    id: string;
-    label: string;
-    paramKey: string;
-    selectType: "multi" | "single";
-    isSearchApplicable?: boolean;
-    state?: string;
-    type?: string;
-    data: FilterValue[];
-};
-
-type FiltersMap = Record<string, FilterDef>;
-
-type Props = {
-    clusterOrder: string[];
-    filters: FiltersMap;
-    selectedFilters: Record<string, string[]>; // id -> values
-    onChange: (filterId: string, values: string[]) => void;
-};
+import { FaAngleLeft, FaAngleRight } from "@/app/components/icons";
+import { FilterDef, FilterValue, FilterSidebarProps } from "@/app/types";
 
 function ModalAllValues({
     filter,
@@ -119,7 +99,7 @@ function ModalAllValues({
     );
 }
 
-export default function FilterSidebar({ clusterOrder, filters, selectedFilters, onChange }: Props) {
+export default function FilterSidebar({ clusterOrder, filters, selectedFilters, onChange }: FilterSidebarProps) {
     const [openModalFor, setOpenModalFor] = useState<string | null>(null);
     const [searchMap, setSearchMap] = useState<Record<string, string>>({});
 
@@ -168,8 +148,37 @@ export default function FilterSidebar({ clusterOrder, filters, selectedFilters, 
                                 )}
 
                                 <div className="space-y-1">
+                                    {/* {displayList.map((val, displayIdx) => {
+                                        const checked = (selectedFilters[id] || []).includes(val.id);
+                                        return (
+                                            <label key={displayIdx} className="flex items-center gap-2 cursor-pointer">
+                                                <input
+                                                    type="checkbox"
+                                                    checked={checked}
+                                                    onChange={() => handleToggle(id, val.id, f.selectType)}
+                                                />
+                                                <span className="text-sm">{val.label} <span className="text-xs text-gray-400">({val.count})</span></span>
+                                            </label>
+                                        );
+                                    })} */}
                                     {displayList.map((val, displayIdx) => {
                                         const checked = (selectedFilters[id] || []).includes(val.id);
+
+                                        // Tag-style radio buttons
+                                        if (!f.isSearchApplicable && f.selectType === "single") {
+                                            return (
+                                                <button
+                                                    key={displayIdx}
+                                                    onClick={() => handleToggle(id, val.id, f.selectType)}
+                                                    className={`text-sm mr-2 px-3 py-1 rounded-full border ${checked ? "bg-gray-600 text-white border-gray-600" : "bg-gray-100 text-gray-700 border-gray-300"
+                                                        }`}
+                                                >
+                                                    {val.label} <span className="text-xs text-gray-400">({val.count})</span>
+                                                </button>
+                                            );
+                                        }
+
+                                        // Default checkbox UI
                                         return (
                                             <label key={displayIdx} className="flex items-center gap-2 cursor-pointer">
                                                 <input

@@ -44,24 +44,17 @@ export interface CompanySearchData {
     groupDetails: GroupDetails[];
 }
 
-export type GlobalCompanyCategoriesData = {
+export type CompanyCategoriesData = {
     id: number;
     label: string;
     count: string;
     value: string;
 };
 
-// -------------------- GlobalCompanyCategorySlider.tsx --------------------
+// -------------------- CompanyCategorySlider.tsx --------------------
 
-export type GlobalCompanyCategorySliderProps<T> = {
-    data: T[];
-    renderItem: (item: T, index: number) => React.ReactNode;
-    options?: {
-        showScrollbar?: boolean; // show/hide native scrollbar
-        arrowColor?: string; // Tailwind color classes
-        itemWidth?: number; // min card width in px (e.g., 200)
-        gap?: number; // gap between items in px
-    };
+export type CompanyCategorySliderProps<T> = {
+    setSelectedCategory: Function
 };
 
 // -------------------- FilterSidebar.tsx --------------------

@@ -1,28 +1,9 @@
 // components/CompanyCard.tsx
 import React from "react";
-import { FaAngleRight } from "../icons";
+import { FaAngleRight } from "@/app/components/icons";
+import { CompanyCardGroupDetails } from "@/app/types";
 
-// ---- Define the type here (no external import needed) ----
-export interface GroupDetails {
-    groupId: number;
-    groupName: string;
-    groupLogo: {
-        desktop: string;
-        mobile?: string;
-    };
-    groupTags?: {
-        businessSize?: string[];
-        natureofBusiness?: string[];
-        ownershipType?: string[];
-        [key: string]: string[] | undefined;
-    };
-    noOfReviews?: number;
-    rating?: number;
-    industry?: string;
-    location?: string;
-}
-
-export default function CompanyCard({ company }: { company: GroupDetails }) {
+export default function CompanyCard({ company }: { company: CompanyCardGroupDetails }) {
     return (
         <div className="p-4 bg-white border rounded-xl shadow-sm hover:shadow-md transition flex justify-between items-center">
             <div className="flex gap-3">
