@@ -60,7 +60,7 @@ const CompanyGroups = ({ totalRecordsInDB, filteredCompanies, ITEMS_PER_PAGE, cu
         startIndex,
         startIndex + ITEMS_PER_PAGE
     );
-    
+
     return (
         <div className="w-full ml-6">
             {/* Header with filters */}
@@ -75,6 +75,7 @@ const CompanyGroups = ({ totalRecordsInDB, filteredCompanies, ITEMS_PER_PAGE, cu
                     <button
                         onClick={() => {
                             setSelectedCategory(null);
+                            setSelectedFilters({});
                         }}
                         className="text-blue-600 hover:underline"
                     >

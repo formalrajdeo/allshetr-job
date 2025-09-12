@@ -118,7 +118,7 @@ export default function FilterSidebar({ clusterOrder, filters, selectedFilters, 
 
     return (
         <aside className="w-72">
-            <div className="bg-white border rounded-lg p-4 shadow-sm sticky top-24">
+            <div className="bg-white border mr-4 rounded-lg p-4 shadow-sm sticky top-24">
                 <h2 className="font-bold text-lg mb-4">All Filters</h2>
 
                 <div className="space-y-6">
