@@ -1,3 +1,4 @@
+import { buildCompanyApiUrl } from '../../common'
 import CompanyPage from '../company_groups'
 
 const staticCompanyPages = [
@@ -6,7 +7,7 @@ const staticCompanyPages = [
     'companies-hiring-in-india',
 ]
 
-export const matchCompanyGroupsMatcher = (path: string, pageNo: number, buildCompanyApiUrl: Function, _buildJobApiUrl: Function) => {
+export const matchCompanyGroupsMatcher = (path: string, pageNo: number) => {
     if (staticCompanyPages.includes(path)) {
         const url = buildCompanyApiUrl(path, 'search_by_company_general', {}, pageNo)
         return {

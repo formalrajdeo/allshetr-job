@@ -1,6 +1,7 @@
+import { buildCompanyApiUrl } from '../../common'
 import CompanyPage from '../company_groups'
 
-export const matchCompanyRoutes = (path: string, pageNo: number, buildCompanyApiUrl: Function, _buildJobApiUrl: Function) => {
+export const matchCompanyRoutes = (path: string, pageNo: number) => {
     const patterns = [
         {
             regex: /^companies-in-(.*)-l(\d+)$/,

@@ -8,9 +8,7 @@ import { matchCompanyGroupsMatcher } from './companyGroupsMatcher'
 
 export const matchRoute = (
     path: string,
-    pageNo: number,
-    buildCompanyApiUrl: Function,
-    buildJobApiUrl: Function
+    pageNo: number
 ): { url: string; component: React.ReactElement } | null => {
     const matchers = [
         matchCompanyRoutes,
@@ -22,7 +20,7 @@ export const matchRoute = (
     ]
 
     for (const matcher of matchers) {
-        const result = matcher(path, pageNo, buildCompanyApiUrl, buildJobApiUrl)
+        const result = matcher(path, pageNo)
         if (result) return result
     }
 

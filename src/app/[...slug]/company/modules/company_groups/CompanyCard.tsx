@@ -1,4 +1,3 @@
-// components/CompanyCard.tsx
 import React from "react";
 import { FaAngleRight } from "@/app/components/icons";
 import { CompanyCardGroupDetails } from "@/app/types";
