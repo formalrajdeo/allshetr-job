@@ -24,3 +24,24 @@ export const buildJobApiUrl = (opts: { urlType?: string; seoKey?: string; pageNo
     const s = opts.src ?? 'jobsearchDesk'
     return `${base}/jobapi/v3/search?noOfResults=${nr}&urlType=${encodeURIComponent(u)}&pageNo=${pn}&seoKey=${encodeURIComponent(sk)}&src=${encodeURIComponent(s)}`
 }
+
+export const buildQueryParams = (
+    filters: Record<string, string[]>,
+    fieldMapping: Record<string, string>
+): URLSearchParams => {
+    const params = new URLSearchParams();
+
+    for (const key in filters) {
+        const values = filters[key];
+        if (!values || values.length === 0) continue;
+
+        const mappedKey = fieldMapping[key];
+        if (!mappedKey) continue;
+
+        values.forEach((val) => {
+            params.append(`qc${mappedKey}`, val);
+        });
+    }
+
+    return params;
+}

@@ -60,6 +60,7 @@ const CompanyGroups = ({ totalRecordsInDB, filteredCompanies, ITEMS_PER_PAGE, cu
         startIndex,
         startIndex + ITEMS_PER_PAGE
     );
+    console.log({ paginatedCompanies, filteredCompanies })
 
     return (
         <div className="w-full ml-6">
@@ -86,11 +87,20 @@ const CompanyGroups = ({ totalRecordsInDB, filteredCompanies, ITEMS_PER_PAGE, cu
             </div>
 
             {/* Companies grid */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {paginatedCompanies?.map((c: any) => (
                     <CompanyCard key={c.groupId} company={c} />
                 ))}
-            </div>
+            </div> */}
+            {filteredCompanies.length === 0 ? (
+                <p className="text-gray-500 mt-4">No companies found for selected filters.</p>
+            ) : (
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    {paginatedCompanies?.map((c: any) => (
+                        <CompanyCard key={c.groupId} company={c} />
+                    ))}
+                </div>
+            )}
 
             {/* Pagination */}
             <div className="mt-6 flex flex-col md:flex-row items-center justify-center mb-60 gap-4">

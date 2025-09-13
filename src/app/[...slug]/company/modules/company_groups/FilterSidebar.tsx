@@ -2,7 +2,14 @@
 "use client";
 import React, { useMemo, useState } from "react";
 import { FaAngleLeft, FaAngleRight } from "@/app/components/icons";
-import { FilterDef, FilterValue, FilterSidebarProps } from "@/app/types";
+import { FilterDef, FilterValue } from "@/app/types";
+
+interface FilterSidebarProps {
+    clusterOrder: string[];
+    filters: Record<string, FilterDef>;
+    selectedFilters: Record<string, string[]>;
+    onChange: (id: string, selected: string[]) => void;
+}
 
 function ModalAllValues({
     filter,
@@ -105,6 +112,7 @@ export default function FilterSidebar({ clusterOrder, filters, selectedFilters, 
 
     function handleToggle(filterId: string, value: string, selectType: string) {
         const current = selectedFilters[filterId] || [];
+        console.log({ filterId, selectedFilters, current })
         if (selectType === "single") {
             // toggle single selection
             const newVal = current.includes(value) ? [] : [value];
