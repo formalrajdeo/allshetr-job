@@ -34,7 +34,7 @@ const fieldMapping: Record<string, keyof GroupTagMap | 'location' | 'industry'> 
     allLocation: 'allLocation',
     allDept: 'allDept',
     allExperience: 'allExperience',
-    dateBucket: 'dateBucket',
+    dateBucket: 'liveAge',
 };
 
 function buildQueryParams(
@@ -152,7 +152,6 @@ export default function CompanyPage() {
         if (!res?.groupDetails) return [];
 
         let list = [...res.groupDetails];
-        console.log({ selectedFilters, list })
 
         if (selectedCategory) {
             const normalized = selectedCategory.toLowerCase();
@@ -168,34 +167,7 @@ export default function CompanyPage() {
                 return allTagValues.some((val) => val.includes(normalized));
             });
         }
-
-        /*
-        for (const filterId of Object.keys(selectedFilters)) {
-            const selectedVals = selectedFilters[filterId];
-            console.log({ filterId, selectedVals })
-            if (!selectedVals || selectedVals.length === 0) continue;
-
-            const field = fieldMapping[filterId];
-            if (!field) continue;
-
-            list = list.filter((company: any) => {
-                const tags = company.groupTags || {};
-
-                if (field in tags) {
-                    const tagValues = (tags[field] || []) as string[];
-                    return selectedVals.some((val) =>
-                        tagValues.map((v) => v.toLowerCase()).includes(val.toLowerCase())
-                    );
-                }
-
-                const value = (company as any)[field];
-                if (!value) return false;
-
-                return selectedVals.some((val) => value.toLowerCase() === val.toLowerCase());
-            });
-        }
-        */
-        console.log({ list })
+        console.log({ selectedCategory, selectedFilters })
         return list;
     }, [res, selectedCategory, selectedFilters]); // ✅ Memoize based on these
 

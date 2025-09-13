@@ -60,7 +60,6 @@ const CompanyGroups = ({ totalRecordsInDB, filteredCompanies, ITEMS_PER_PAGE, cu
         startIndex,
         startIndex + ITEMS_PER_PAGE
     );
-    console.log({ paginatedCompanies, filteredCompanies })
 
     return (
         <div className="w-full ml-6">
